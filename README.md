@@ -5,7 +5,6 @@ Author= Baljeet Singh
 http://www.facebook.com/bssangrur
 ----------------------------------------------
 
-The Lock Match is a java code written in netbeans(Is a java class library),so you can directly open it in netbeans.
 Lock Match Contains following classes:
 1)LockMatch
 2)anywhere_match
